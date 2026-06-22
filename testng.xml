@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="AuthorizedPartnerSignupSuite">
+
+    <listeners>
+        <listener class-name="Utilities.ExtentListener"/>
+    </listeners>
+
+    <test name="SignupAutomation">
+
+        <classes>
+            <class name="Practice.SignupTest"/>
+        </classes>
+
+    </test>
+
+</suite>
