@@ -177,6 +177,19 @@ reports/ExtentReport.html
 ```
 
 ---
+## Demo Video
+
+Google Drive Video:
+https://drive.google.com/file/d/1jkos1RuwQgxO6Jevff-URwl6VO8aL6SI/view?usp=drive_link
+
+The video demonstrates:
+- Complete signup automation execution
+- Automated OTP retrieval from Gmail
+- Agency Details form submission
+- Professional Experience form submission
+- Verification & Preferences form submission
+- Successful account creation
+- Extent Report generation
 
 ## Author
 
